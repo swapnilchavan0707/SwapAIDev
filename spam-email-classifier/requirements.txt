@@ -1,0 +1,14 @@
+# Data Manipulation
+pandas
+numpy
+
+# Natural Language Processing (NLP)
+nltk
+scikit-learn
+
+# Visualization (Optional but recommended for testing)
+matplotlib
+seaborn
+
+# Model Saving
+joblib
