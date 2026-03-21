@@ -35,6 +35,8 @@ if option == "Upload Image":
 
         # Process detection
         with st.spinner('Analyzing pixels...'):
+	    # Add this before calling detect
+	    img_array = cv2.cvtColor(img_array, cv2.COLOR_BGR2RGB)
             processed_img, count = detector.detect(img_array)
 
         # Display Results
