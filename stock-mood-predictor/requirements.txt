@@ -1,0 +1,16 @@
+# --- Data Fetching & Handling ---
+yfinance>=0.2.0        # Fetch historical stock prices from Yahoo Finance
+pandas>=2.0.0          # Data manipulation and merging
+numpy>=1.24.0          # Numerical computations
+
+# --- Sentiment Analysis (NLP) ---
+vaderSentiment>=3.3.0  # Specialized in financial/social media sentiment
+textblob>=0.17.0       # General purpose NLP and polarity scoring
+nltk>=3.8.0            # Core toolkit for text processing
+
+# --- Visualization ---
+plotly>=5.15.0         # Interactive charts (Heatmap, Candlestick)
+kaleido==0.2.1         # Static image export support for Plotly
+
+# --- Dashboard (Optional) ---
+streamlit>=1.25.0      # To turn your project into a web app
