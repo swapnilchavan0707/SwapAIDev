@@ -1,0 +1,17 @@
+# --- Email & Web Parsing ---
+beautifulsoup4>=4.12.0  # Extracts hidden links from HTML emails
+mail-parser>=3.15.0     # Professional-grade email header/body parser
+tldextract>=5.1.0       # Safely pulls domains (e.g., .xyz vs .com)
+
+# --- Analysis & Logic ---
+pandas>=2.1.0           # Data handling for urgency counts
+numpy>=1.24.0           # Numerical scoring for risk meters
+
+# --- Visualization ---
+networkx>=3.1.0         # The core engine for the Link Analysis Map
+matplotlib>=3.8.0       # For the Urgency Meter and Reputation Plot
+plotly>=5.18.0          # (Optional) For interactive web-based versions
+streamlit>=1.28.0       # The Security Dashboard interface
+
+# --- Utilities ---
+validators>=0.22.0      # Validates if extracted strings are real URLs

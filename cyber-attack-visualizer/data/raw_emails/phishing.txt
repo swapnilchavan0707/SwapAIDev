@@ -1,0 +1,14 @@
+From: Apple Support <security@verify-apple-id.xyz>
+To: user@example.com
+Subject: URGENT: Your Apple ID has been suspended!
+
+Dear Customer,
+We detected unauthorized login attempts on your account.
+To prevent permanent suspension, you must verify your identity immediately.
+
+Click the link below to secure your account:
+https://secure-apple-login.xyz
+
+Failure to act within 24 hours will result in account deletion.
+Best regards,
+Apple Security Team

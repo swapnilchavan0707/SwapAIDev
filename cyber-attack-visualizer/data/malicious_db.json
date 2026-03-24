@@ -1,0 +1,16 @@
+{
+    "urgency_keywords": [
+        "urgent", "suspended", "immediate", "action required",
+        "security alert", "unauthorized", "expired", "penalty",
+        "compromised", "login now", "verify your account"
+    ],
+    "suspicious_patterns": [
+        "bit.ly", "tinyurl.com", "t.co", "ipfs.io",
+        "redirect", "login-update", "secure-verify"
+    ],
+    "flagged_senders": [
+        "admin@account-security.xyz",
+        "support@paypa1-update.com",
+        "billing@netflix-verify.net"
+    ]
+}

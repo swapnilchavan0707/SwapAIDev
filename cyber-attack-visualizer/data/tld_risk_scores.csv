@@ -1,0 +1,8 @@
+TLD,Risk_Score,Category
+.com,10,Standard
+.org,15,Standard
+.xyz,85,High-Risk
+.top,90,High-Risk
+.zip,95,Malicious-Pattern
+.online,40,Suspicious
+.icu,80,High-Risk
